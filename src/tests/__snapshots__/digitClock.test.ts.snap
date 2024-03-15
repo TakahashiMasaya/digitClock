@@ -18,15 +18,11 @@ exports[`test > snapshot 1`] = `
         data-v-6b06b20d=""
       />
       <div
-        class="display d1"
+        class="display d5"
         data-v-6b06b20d=""
       />
       <div
         class="colon"
-        data-v-6b06b20d=""
-      />
-      <div
-        class="display d1"
         data-v-6b06b20d=""
       />
       <div
@@ -34,15 +30,19 @@ exports[`test > snapshot 1`] = `
         data-v-6b06b20d=""
       />
       <div
+        class="display d3"
+        data-v-6b06b20d=""
+      />
+      <div
         class="colon"
         data-v-6b06b20d=""
       />
       <div
-        class="display d0"
+        class="display d1"
         data-v-6b06b20d=""
       />
       <div
-        class="display d1"
+        class="display d2"
         data-v-6b06b20d=""
       />
     </div>
