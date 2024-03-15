@@ -1,0 +1,51 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`test > snapshot 1`] = `
+<div
+  class="frame"
+  data-v-6b06b20d=""
+>
+  <div
+    class="frame__inner"
+    data-v-6b06b20d=""
+  >
+    <div
+      class="frame___digit"
+      data-v-6b06b20d=""
+    >
+      <div
+        class="display d1"
+        data-v-6b06b20d=""
+      />
+      <div
+        class="display d1"
+        data-v-6b06b20d=""
+      />
+      <div
+        class="colon"
+        data-v-6b06b20d=""
+      />
+      <div
+        class="display d0"
+        data-v-6b06b20d=""
+      />
+      <div
+        class="display d3"
+        data-v-6b06b20d=""
+      />
+      <div
+        class="colon"
+        data-v-6b06b20d=""
+      />
+      <div
+        class="display d0"
+        data-v-6b06b20d=""
+      />
+      <div
+        class="display d9"
+        data-v-6b06b20d=""
+      />
+    </div>
+  </div>
+</div>
+`;
