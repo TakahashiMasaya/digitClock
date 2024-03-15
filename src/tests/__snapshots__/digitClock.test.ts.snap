@@ -26,11 +26,11 @@ exports[`test > snapshot 1`] = `
         data-v-6b06b20d=""
       />
       <div
-        class="display d0"
+        class="display d1"
         data-v-6b06b20d=""
       />
       <div
-        class="display d3"
+        class="display d4"
         data-v-6b06b20d=""
       />
       <div
@@ -42,7 +42,7 @@ exports[`test > snapshot 1`] = `
         data-v-6b06b20d=""
       />
       <div
-        class="display d9"
+        class="display d1"
         data-v-6b06b20d=""
       />
     </div>
