@@ -1,0 +1,4 @@
+bun = "1.0.31"
+
+[settings]
+auto-clean = true
