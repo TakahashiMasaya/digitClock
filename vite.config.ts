@@ -6,12 +6,12 @@ import vueJsx from '@vitejs/plugin-vue-jsx'
 import { VitePWA } from 'vite-plugin-pwa'
 
 // https://vitejs.dev/config/
-export default defineConfig({
+export default defineConfig(({ command }) => ({
   base: '/digitClock/',
   plugins: [
     vue(),
     vueJsx(),
-    VitePWA({
+    command === 'serve' && VitePWA({
       manifest: {
         name: 'Digit Clock',
         short_name: 'Digit Clock',
@@ -51,4 +51,4 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
   }
-})
+}))
