@@ -4,6 +4,6 @@ import { mount } from '@vue/test-utils'
 describe('test', () => {
   it('snapshot', () => {
     const wrapper = mount(digitClock)
-    expect(wrapper.element).toMatchSnapshot();
-  });
-});
+    expect(wrapper.element).toMatchSnapshot()
+  })
+})

@@ -6,5 +6,4 @@ import digitClock from '@/components/digitClock.vue'
   <digit-clock />
 </template>
 
-<style lang="scss" scoped>
-</style>
+<style lang="scss" scoped></style>
